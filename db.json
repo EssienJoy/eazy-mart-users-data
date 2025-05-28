@@ -4,6 +4,7 @@
 			"id": 1,
 			"firstName": "Grace",
 			"lastName": "Arikpo",
+			"userName": "arikpo",
 			"email": "gracearikpo@gmail.com",
 			"password": "grace1234#"
 		},
@@ -11,6 +12,7 @@
 			"id": 2,
 			"firstName": "Praise",
 			"lastName": "Okonkwo",
+			"userName": "grace",
 			"email": "praiseokon@gmail.com",
 			"password": "praise1234#"
 		}
